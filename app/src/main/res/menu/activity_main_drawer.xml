@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_new_contact"
+            android:icon="@drawable/ic_contact_phone_black_24dp"
+            android:title="@string/menu_new_contact" />
+        <item
+            android:id="@+id/nav_calls"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="@string/menu_calls" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/menu_messages" />
+
+        <item
+            android:id="@+id/nav_emails"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="@string/menu_emails" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="@string/menu_calendar" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/menu_settings" />
+    </group>
+
+
+
+</menu>

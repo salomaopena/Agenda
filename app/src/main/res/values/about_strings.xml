@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_title">Agenda</string>
+
+    <string name="about_tx">
+
+        <annotation title="main">
+            \n\n<b>O que é?</b>
+        </annotation>
+        \n\nÉ uma app que tem como objectivo principal coleccionar contactos telefonicos,
+        emails, dos amigos do usuário. Também permite fazer chamadas, enviar correios electrónicos para,
+        amigos..
+        <annotation title="main">
+            \n\n<b>Porque?</b>
+        </annotation>
+
+         \n\nAs vezes é meio dificil ter que organizar uma agenda em papel com nomes dos meus,
+        amigos. Por outra, nem sempre estamos com uma agenda física e uma esferográfica para guardar
+        seus contactos.
+
+    </string>
+
+</resources>

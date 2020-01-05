@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="title_activity_main">Contactos</string>
+    <string name="navigation_drawer_open">Abrir menu gaveta</string>
+    <string name="navigation_drawer_close">Fechar menu gaveta</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_new_contact">Novo contacto</string>
+    <string name="menu_calls">Chamadas</string>
+    <string name="menu_messages">Mensagens</string>
+    <string name="menu_emails">Emails</string>
+    <string name="menu_calendar">Calendário</string>
+    <string name="menu_about">Acerca</string>
+    <string name="menu_settings">Definições</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ed_name">Nome</string>
+    <string name="ed_surname">Sobrenome</string>
+    <string name="ed_phone">Telefone</string>
+    <string name="ed_email">Email</string>
+    <string name="btn_save">Salvar</string>
+    <string name="mobile_call">Ligar</string>
+    <string name="mobile_message">Mensagem</string>
+    <string name="mobile_email">Email</string>
+    <string name="is_exists">Contacto já existente!</string>
+    <string name="success_message">Adicionado com Sucesso!</string>
+    <string name="email_send">Enviar email</string>
+
+    <string name="sms_delivered">SMS delivered</string>
+    <string name="sms_not_delivered">SMS not delivered</string>
+    <string name="write_message">Escreva sua mensagem</string>
+    <string name="title">Titulo</string>
+    <string name="content_small">Texto da mensagem</string>
+    <string name="please_write_message">Por favor, escreva uma mensagem</string>
+    <string name="please_write_number">Por favor, insira o numero telefonico</string>
+    <string name="search_hint">Pesquisar</string>
+
+    <string name="google_drive_backup">Backup de mensagens</string>
+    <string name="backup_on_drive">Todos Backups de mensagens no Google Drive</string>
+    <string name="restore_backup">Restaurar Backup</string>
+    <string name="restore_backup_all">Restaurar todos seus backup.</string>
+    <string name="google_drive_restore">Restaurar Backup</string>
+    <string name="cant_send">Nao enviada</string>
+    <string name="please_wait">Por favor, aguarde...</string>
+
+
+</resources>
